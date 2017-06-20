@@ -1,6 +1,6 @@
 # 2.5D-Game Cube Jumper
 
-##My first Unity3D Game I did accord to a tutorial
+## My first Unity3D Game I did accord to a tutorial
 
 See a short gameplay down below
 
